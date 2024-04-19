@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/ksv90/credit-calculator/compare/v0.0.3...v0.0.4) (2024-04-19)
+
+
+### Bug Fixes
+
+* deploy dir changed ([16d41bf](https://github.com/ksv90/credit-calculator/commit/16d41bfff2d9ca9441b6c0377ff76d67651607a1))
+
 ## [0.0.3](https://github.com/ksv90/credit-calculator/compare/v0.0.2...v0.0.3) (2024-04-19)
 
 
