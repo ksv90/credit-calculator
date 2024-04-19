@@ -34,7 +34,7 @@
     "pnpm": ">=8.0.0"
   },
   "packageManager": "pnpm@8.15.4",
-  "homepage": "https://github.com/ksv90/credit-calculator",
+  "homepage": "https://ksv90.github.io/credit-calculator/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ksv90/credit-calculator.git"
