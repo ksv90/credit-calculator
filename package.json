@@ -28,5 +28,15 @@
     "prettier": "^3.2.5",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "packageManager": "pnpm@8.15.4",
+  "homepage": "https://github.com/ksv90/credit-calculator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksv90/credit-calculator.git"
   }
 }
