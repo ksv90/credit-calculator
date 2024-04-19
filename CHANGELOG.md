@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5](https://github.com/ksv90/credit-calculator/compare/v0.0.4...v0.0.5) (2024-04-19)
+
+
+### Bug Fixes
+
+* base params added to vite config ([6870a6b](https://github.com/ksv90/credit-calculator/commit/6870a6bc79fafa807f8054f1c7fdb81e703a7ce3))
+
 ## [0.0.4](https://github.com/ksv90/credit-calculator/compare/v0.0.3...v0.0.4) (2024-04-19)
 
 
