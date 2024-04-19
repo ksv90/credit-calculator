@@ -9,8 +9,7 @@
     "preview": "vite preview",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "format": "prettier --write .",
-    "test": "echo test",
-    "prepublish": "pnpm build"
+    "test": "echo test"
   },
   "dependencies": {
     "react": "^18.2.0",
