@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.6](https://github.com/ksv90/credit-calculator/compare/v0.0.5...v0.0.6) (2024-04-25)
+
+
+### Bug Fixes
+
+* lite ui added ([617750a](https://github.com/ksv90/credit-calculator/commit/617750af601a551540e0aab7c6ac478aca15c4d0))
+
 ## [0.0.5](https://github.com/ksv90/credit-calculator/compare/v0.0.4...v0.0.5) (2024-04-19)
 
 
